@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Podkova:wght@400;500&display=swap');
+
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    font-family: 'Podkova', serif;
+    outline: none;
+    text-decoration:none;
+    list-style: none;
+}
+
+body{
+    background: #fff;
+}
+
+#sidebar{
+    box-shadow: 0 0 10px 0 black;
+    background: #ffffff;
+    height: 100vh;
+    text-align: center;
+}
+
+#sidebar #brand{
+    padding-top: 3rem;
+    font-size: 40px;
+    font-weight: bold;
+}
+#sidebar #brand i{
+    color:#B0D9B1;
+}
+
+#sidebar #brand label{
+}
+
