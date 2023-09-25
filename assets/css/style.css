@@ -294,7 +294,7 @@ header {
     background: linear-gradient(45deg, #ccc, #fff);
     width: 230px;
     height: 390px;
-    border-radius: 10px;
+    border-radius: 20px;
     text-align: center;
     transition: 0.5s;
     box-shadow:  0 0 20px #777;
